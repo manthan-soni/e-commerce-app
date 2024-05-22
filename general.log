@@ -1,0 +1,90 @@
+2024-05-22 09:29:36,812 (INFO) - playground.views - Calling httpbib
+2024-05-22 09:29:39,999 (INFO) - playground.views - Recieved the response
+2024-05-22 09:29:40,238 (WARNING) - django.request - Not Found: /favicon.ico
+2024-05-22 10:41:23,821 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/manage.py changed, reloading.
+2024-05-22 10:42:16,636 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:42:16,765 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:42:47,086 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:42:51,353 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:42:51,458 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:45:12,161 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:45:12,825 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:45:12,928 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:45:39,366 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:47:11,005 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:11,107 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:47:23,885 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:47:24,435 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:24,536 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:47:25,901 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:47:26,492 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:26,595 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:47:27,947 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:47:28,533 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:28,650 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:47:31,009 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:47:31,611 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:31,715 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:47:33,128 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 10:47:33,832 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:33,949 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:47:36,930 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 10:47:37,033 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 10:48:05,099 (WARNING) - rest_framework.fields - min_value in DecimalField should be Decimal type.
+2024-05-22 10:48:05,466 (WARNING) - django.request - Not Found: /favicon.ico
+2024-05-22 11:14:36,661 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:14:36,668 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:14:36,715 (WARNING) - django.request - Not Found: /store/collection/1/
+2024-05-22 11:14:36,800 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:15:26,400 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 11:15:26,986 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 11:15:27,086 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 11:15:34,520 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 11:15:34,621 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 11:15:49,559 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/dev.py changed, reloading.
+2024-05-22 11:15:50,160 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 11:15:50,265 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 11:15:55,073 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 11:15:55,175 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 11:16:02,932 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:16:02,937 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:16:02,956 (WARNING) - django.request - Not Found: /store/collection/1/
+2024-05-22 11:16:03,032 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:17:17,805 (WARNING) - django.request - Not Found: /store/collection/1/
+2024-05-22 11:18:02,808 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:18:02,813 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:18:02,834 (WARNING) - django.request - Not Found: /store/collection/1/
+2024-05-22 11:18:02,910 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:19:11,567 (WARNING) - django.request - Not Found: /store/collection/1
+2024-05-22 11:20:18,621 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:20:18,628 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:20:43,613 (WARNING) - django.request - Not Found: /store/collection/1/
+2024-05-22 11:21:22,246 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:21:22,252 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:21:28,909 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:21:31,008 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:21:31,014 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:21:31,106 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:22:46,242 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:22:46,248 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:23:57,670 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:24:04,895 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:24:04,900 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:24:08,363 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:24:14,765 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:24:14,771 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:24:14,860 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:25:09,634 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:25:09,639 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:25:09,654 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:26:43,129 (INFO) - django.utils.autoreload - /home/bacancy/python_program/python/django-project/django_course_practice_(mosh)/storefront3/storefront/settings/common.py changed, reloading.
+2024-05-22 11:26:43,862 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-05-22 11:26:44,001 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 11:26:47,744 (WARNING) - django.request - Unauthorized: /store/collections/
+2024-05-22 11:26:47,771 (WARNING) - django.request - Forbidden: /store/collections/
+2024-05-22 11:26:47,924 (WARNING) - django.request - Bad Request: /store/collections/
+2024-05-22 11:29:32,143 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-05-22 11:29:32,393 (WARNING) - django.request - Not Found: /favicon.ico
+2024-05-22 11:29:45,874 (WARNING) - django.request - Unauthorized: /store/customers/
+2024-05-22 11:29:56,707 (WARNING) - rest_framework.fields - min_value in DecimalField should be Decimal type.
+2024-05-22 11:30:05,003 (WARNING) - django.request - Unauthorized: /store/orders/
